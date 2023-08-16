@@ -94,10 +94,10 @@ st.markdown("""
         <a class="nav-link" href="#work-experience">Work Experience</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#Skills">Skills</a>
+        <a class="nav-link" href="#skills">Skills</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#Leadership And Affiliations">Leadership And Affiliations</a>
+        <a class="nav-link" href="#leadership-and-affiliations">Leadership And Affiliations</a>
       </li>
     </ul>
   </div>
