@@ -94,7 +94,10 @@ st.markdown("""
         <a class="nav-link" href="#work-experience">Work Experience</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#Skillss">Skills</a>
+        <a class="nav-link" href="#Skills">Skills</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#Leadership And Affiliations">Leadership And Affiliations</a>
       </li>
     </ul>
   </div>
@@ -186,10 +189,43 @@ st.write(
 """
 )
 
-st.write("""
-HI there
-         """)
+# --- LEADERSHIP AND AFFILIATIONS ---
+st.write('\n')
+st.subheader("Leadership and Affiliations")
+st.write("---")
 
+# --- Leadership 1
+st.write("🚧", "**Cultural Director | Purdue University Malaysian Student Association (PUMSA)**")
+st.write("01/2019 - 12/2019")
+st.write(
+    """
+- ► Collaborated and build relationships with 2 other organization to hold cultural events like Chinese New Year and Aidul-Fitri.
+- ► Directed and designed cultural events for students throughout the semester.
+""")
+
+# --- Leadership 2
+st.write('\n')
+st.write("🚧", "**Director of Malaysian Graduation Night 2019  | Purdue University Malaysian Student Association (PUMSA)**")
+st.write("01/2019 - 05/2019")
+st.write(
+    """
+- ► Organized weekly meeting to brainstorm ideas and budgets 12 weeks before the event took place.
+- ► Oversee and helped teammates with tasks assigned.
+- ► Managed event set-up on the day and making sure event flows smoothly.
+"""
+)
+
+# --- Leadership 3
+st.write('\n')
+st.write("🚧", "**Event Organizer of PUMSA Night 2018   | Purdue University Malaysian Student Association (PUMSA)**")
+st.write("08/2018 - 12/2018")
+st.write(
+    """
+- ► Planned meetings with members weekly to discussed time flow and organization.
+- ► Gathered 200 students from other universities across Midwest.
+- ► Arranged the time management of logistics for food setup.
+"""
+)
 
 
 # --- Projects & Accomplishments ---
